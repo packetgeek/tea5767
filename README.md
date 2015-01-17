@@ -1,5 +1,5 @@
 # fmradio
-Control software for the TEA5767 and RDA5807SP in TEA5767 mode.
+Control software for the TEA5767 and RDA5807SP in TEA5767 mode, on the Raspberry Pi, using the wiringPi library.
 
 Controls include:
 
@@ -12,4 +12,6 @@ Controls include:
 
 Read the source for each to determine how to compile them.
 
-- Tim (17 Jan 2015)
+The wiringPi library is at: http://wiringpi.com/
+
+Tim (17 Jan 2015)
