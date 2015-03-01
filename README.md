@@ -14,6 +14,6 @@ Read the source for each to determine how to compile them.
 
 The wiringPi library is at: http://wiringpi.com/
 
-Tim (17 Jan 2015)
+Known issues:  The search function does not work on the TEA5767 breakout boards.  The chip's spec sheet explains that this limitation is caused by the cheap external watch crystal that's used on the breakout board.  The same spec sheet recommends implementing the search function in software.  I've done this and will upload the code shortly.
 
 Update (1 Mar 2015): I'm currently working on removing the dependency on the wiringPi library.
