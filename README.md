@@ -15,3 +15,5 @@ Read the source for each to determine how to compile them.
 The wiringPi library is at: http://wiringpi.com/
 
 Tim (17 Jan 2015)
+
+Update (1 Mar 2015): I'm currently working on removing the dependency on the wiringPi library.
